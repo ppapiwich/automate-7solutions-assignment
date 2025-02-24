@@ -1,5 +1,4 @@
 ## How to run terst script
-
 1. input "email" and "password" in to `../data/test-account.json`
 
 2. Run script as below command
@@ -13,3 +12,5 @@ Headeded mode
 UI mode 
 `npx playwright test tests/nok-cash.spec.t --ui`
 
+
+The resource is contains in the `nok-plus` folder

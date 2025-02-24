@@ -13,4 +13,4 @@ UI mode
 `npx playwright test tests/nok-cash.spec.t --ui`
 
 
-The resource is contains in the `nok-plus` folder
+NOTE: The resource is contains in the `nok-plus` folder
